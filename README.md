@@ -1,5 +1,32 @@
 <div align="center">
 
+# NUTAN BHOYAR
+
+### IT Student • Research Explorer • Presentation Designer • Hackathon Learner
+
+<br>
+
+`Java` · `Python` · `Artificial Intelligence` · `Web Development` · `Research`
+
+<br><br>
+
+**I like exploring ideas, understanding technology, and turning complex concepts
+into clear presentations and practical projects.**
+
+</div>
+
+---
+
+## CURRENTLY EXPLORING
+
+```text
+JAVA              █████░░░░░
+PYTHON            ████░░░░░░
+ARTIFICIAL AI     ████░░░░░░
+WEB DEVELOPMENT   █████░░░░░
+RESEARCH & R&D    ███░░░░░░░
+<div align="center">
+
 <img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Nutan%20Bhoyar&fontAlign=50&fontAlignY=35&fontSize=42&fontColor=ffffff&animation=twinkling&color=0:0f172a,50:1e3a5f,100:7dd3fc" width="100%"/>
 
 <a href="https://git.io/typing-svg">
@@ -14,7 +41,24 @@
 </a>
 
 </div>
+---
 
+## THE PART I ENJOY MOST
+
+### Presentation & Visual Communication
+
+I enjoy taking a technical idea and turning it into a presentation that is
+clear, structured and easy to understand.
+
+In team projects and hackathons, I often work on:
+
+`Research` → `Content Structure` → `Visual Design` → `Presentation`
+
+For me, a good presentation is not just about making attractive slides.
+
+**It's about making an idea easy to understand.**
+
+This is one of the areas where I feel most confident while working with a team.
 👋 Who I Am
 
 const nutan = {
