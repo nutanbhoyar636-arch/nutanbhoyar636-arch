@@ -241,3 +241,29 @@ I enjoy balancing technical learning with creativity, performance and activities
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&animation=twinkling&color=0:7dd3fc,50:1e3a5f,100:0f172a" width="100%"/>
 
 </div>
+## 🚀 Featured Projects
+
+### 🔍 TruthLens AI
+**Real-Time Hallucination Detection & Factual Grounding Layer for Production LLMs**
+
+An AI-based concept focused on detecting factual inconsistencies in LLM-generated responses, comparing claims with trusted sources, and presenting confidence scores with verified references.
+
+**Focus:** AI • LLMs • Factual Grounding • AI Safety
+
+---
+
+### 🏙️ NagarNetra
+**AI-Powered Civic Intelligence Platform**
+
+A smart-city concept designed to identify civic issues such as potholes, garbage and broken infrastructure, then use AI, geo-tagging and automated routing to support faster resolution.
+
+**Focus:** AI • Computer Vision • Smart Cities • Civic Technology
+
+---
+
+### 🌐 NBWebD2026
+**Web Development Projects & Academic Mini-Projects**
+
+A collection of web-development assignments and mini-projects created while learning HTML, CSS, JavaScript and modern web technologies.
+
+**Focus:** Web Development • Frontend • HTML • CSS • JavaScript
