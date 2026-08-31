@@ -267,3 +267,28 @@ A smart-city concept designed to identify civic issues such as potholes, garbage
 A collection of web-development assignments and mini-projects created while learning HTML, CSS, JavaScript and modern web technologies.
 
 **Focus:** Web Development • Frontend • HTML • CSS • JavaScript
+## 🌱 Currently Learning
+
+| Area | Exploring |
+|---|---|
+| Programming | Java • Python |
+| Artificial Intelligence | LLMs • AI Concepts |
+| Development | Web Development |
+| Research | Emerging Technologies • R&D |
+| Tools | Git • GitHub |
+
+---
+
+## 🎨 What I Bring
+
+### Presentation & Visual Communication
+I enjoy transforming technical ideas into clear, structured and engaging presentations.
+
+In team projects and hackathons, I often take responsibility for:
+
+- Presentation structure
+- PPT design
+- Research organisation
+- Visualising technical concepts
+- Explaining the solution clearly
+
