@@ -291,4 +291,31 @@ In team projects and hackathons, I often take responsibility for:
 - Research organisation
 - Visualising technical concepts
 - Explaining the solution clearly
+---
 
+## Connect With Me
+
+I'm always interested in learning, collaborating on projects, participating
+in hackathons and exploring research-oriented technology.
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/nutan-bhoyar-276765432">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-8B1E3F?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/nitubhoyar_15/">
+<img src="https://img.shields.io/badge/Instagram-Follow-B76E79?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### Learning today. Building tomorrow.
+
+`IT Student` · `Hackathons` · `Research` · `Presentations` · `Technology`
+
+</div>
