@@ -1,365 +1,302 @@
 <div align="center">
 
-# NUTAN BHOYAR
-
-### IT Student • Research Explorer • Presentation Designer • Hackathon Learner
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&text=NUTAN%20BHOYAR&fontSize=55&fontColor=F8E8EA&fontAlignY=38&animation=twinkling&color=0:080808,30:210812,60:5C1630,82:8B1E3F,100:B76E79" width="100%"/>
 
 <br>
 
-`Java` · `Python` · `Artificial Intelligence` · `Web Development` · `Research`
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=2600&pause=800&color=E8B4B8&center=true&vCenter=true&width=750&lines=IT+Student+%7C+Research+Explorer;Learning+Java+%26+Python;Exploring+AI+%26+Emerging+Technology;Hackathons+%7C+Projects+%7C+Presentations;Turning+Ideas+into+Clear+Visual+Stories" />
+</a>
 
 <br><br>
 
-**I like exploring ideas, understanding technology, and turning complex concepts
-into clear presentations and practical projects.**
+<img src="https://img.shields.io/badge/IT%20STUDENT-8B1E3F?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/JAVA-5C1630?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/AI%20EXPLORER-B76E79?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RESEARCH-E8B4B8?style=for-the-badge&labelColor=5C1630"/>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=nutanbhoyar636-arch&label=PROFILE+VIEWS&color=8B1E3F&style=for-the-badge"/>
 
 </div>
 
 ---
 
-## CURRENTLY EXPLORING
-
-```text
-JAVA              █████░░░░░
-PYTHON            ████░░░░░░
-ARTIFICIAL AI     ████░░░░░░
-WEB DEVELOPMENT   █████░░░░░
-RESEARCH & R&D    ███░░░░░░░
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Nutan%20Bhoyar&fontAlign=50&fontAlignY=35&fontSize=42&fontColor=ffffff&animation=twinkling&color=0:0f172a,50:1e3a5f,100:7dd3fc" width="100%"/>
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7DD3FC&center=true&vCenter=true&width=650&lines=IT+Student+%7C+Learning+by+Building;Exploring+Java+%26+Python;Interested+in+AI%2C+Research+%26+Technology;Hackathons+%7C+Projects+%7C+Continuous+Learning" alt="Typing SVG" />
-</a>
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=nutanbhoyar636-arch&label=Profile%20Views&color=7dd3fc&style=for-the-badge" alt="Profile views"/>
-<a href="https://github.com/nutanbhoyar636-arch?tab=followers">
-  <img src="https://img.shields.io/github/followers/nutanbhoyar636-arch?label=Followers&style=for-the-badge&color=7dd3fc" alt="GitHub followers"/>
-</a>
+## `01` — WHO I AM
 
 </div>
+
+<table>
+<tr>
+<td width="55%">
+
+### Hi, I'm Nutan.
+
+I'm an **IT student at S.B. Jain Institute of Technology, Nagpur**, exploring the world of programming, artificial intelligence, web development and emerging technologies.
+
+I enjoy learning by **building, experimenting and presenting ideas**.
+
+I'm especially interested in taking complex technical concepts and turning them into **simple, structured and visually engaging presentations**.
+
+<br>
+
+> **Learn → Explore → Build → Present → Improve**
+
+</td>
+
+<td width="45%" align="center">
+
+<img src="https://skillicons.dev/icons?i=java,python,html,css,js,git,github,vscode&perline=4"/>
+
+<br><br>
+
+**Currently Exploring**
+
+`Java`  
+`Python`  
+`Artificial Intelligence`  
+`Web Development`  
+`Research`
+
+</td>
+</tr>
+</table>
+
 ---
 
-## THE PART I ENJOY MOST
-
-### Presentation & Visual Communication
-
-I enjoy taking a technical idea and turning it into a presentation that is
-clear, structured and easy to understand.
-
-In team projects and hackathons, I often work on:
-
-`Research` → `Content Structure` → `Visual Design` → `Presentation`
-
-For me, a good presentation is not just about making attractive slides.
-
-**It's about making an idea easy to understand.**
-
-This is one of the areas where I feel most confident while working with a team.
-👋 Who I Am
-
-const nutan = {
-  name: "Nutan Bhoyar",
-  role: "IT Student",
-  college: "S.B. Jain Institute of Technology, Nagpur",
-
-  currentlyLearning: [
-    "Java",
-    "Python",
-    "Programming Fundamentals",
-    "Web & Emerging Technologies"
-  ],
-
-  interests: [
-    "Technology",
-    "Artificial Intelligence",
-    "Research & Development",
-    "Defence & Space Technology",
-    "Internships & Industry Opportunities"
-  ],
-
-  skillsAndStrengths: [
-    "Presentation & PPT Design",
-    "Communication & Idea Presentation",
-    "Learning by Building"
-  ],
-
-  activities: [
-    "Hackathons",
-    "Academic Projects",
-    "Continuous Learning",
-    "Dance"
-  ],
-
-  hackathons: [
-    "YCCE Hackathon",
-    "Manthan4Yuva — VNIT, Nagpur",
-    "Smart India Hackathon (SIH) — Participated in internal selection"
-  ],
-
-  status: "Learning, exploring and building step by step 🚀"
-};
-
-🌱 Currently Learning
-
-I'm at the beginning of my technical journey and currently focused on building strong fundamentals rather than claiming expertise.
-
-☕ Java — currently learning and particularly interested in it
-
-🐍 Python — a major language I want to learn
-
-💻 Programming fundamentals & problem solving
-
-🌐 Exploring web and emerging technologies
-
-🔧 Learning Git & GitHub through projects and hackathons
-
-🤖 Gradually exploring AI and technology research
-
-🚀 Projects, Presentations & Hackathons
-
-🏆 Smart India Hackathon 2026 — CoalSetu
-
-CoalSetu is our SIH idea for an AI-based smart governance and compliance monitoring system for coal mines.
-
-The proposed solution focuses on:
-
-📷 Field data capture using photo/video, GPS and timestamps
-
-🤖 AI-assisted risk assessment and prioritisation
-
-🚨 Alerts, assignment, escalation and resolution tracking
-
-📊 A governance dashboard for mine-wise risk and compliance trends
-
-🗺️ Geo-tagging and GIS-based monitoring
-
-Proposed technology stack: React • FastAPI + Python • Computer Vision & ML • PostgreSQL + PostGIS • GIS/Maps • Cloud
-
-I contributed to the presentation and idea communication for the SIH internal selection, including structuring the solution, workflow, technical approach, feasibility, impact and research/reference sections.
-
-Participated in the SIH internal hackathon/selection process — currently continuing to learn and improve.
-
-🏆 YCCE Hackathon
-
-Participated in a hackathon at YCCE and gained experience in teamwork, idea development and presenting a technology-based solution.
-
-🏆 Manthan4Yuva — VNIT, Nagpur
-
-Participated in Manthan4Yuva held at VNIT, Nagpur, gaining more experience with hackathon-style problem solving, teamwork and presentation.
-
-🎤 Presentation & PPT Design
-
-Presentation is one of the areas I genuinely enjoy and contribute to in group work.
-
-I especially like turning ideas and research into clear, structured and visually engaging presentations.
-
-📊 Designing and structuring project presentations
-
-🧩 Breaking technical ideas into easy-to-understand slides
-
-🎯 Preparing presentations for hackathon problem statements
-
-🗣️ Explaining and presenting ideas to an audience
-
-🤝 Taking responsibility for the presentation side of group projects
-
-My CoalSetu SIH presentation covered the solution workflow, technical approach, proposed stack, feasibility, scalability, viability, impact and research references.
-
-🎯 Skills & Strengths
-
-🎤 Presentation & PPT Design — one of my strongest current skills
-
-🗣️ Idea Presentation & Communication — explaining project ideas clearly
-
-🤝 Team Collaboration — contributing to group projects and hackathons
-
-💡 Creative Thinking — especially in presenting and structuring ideas
-
-🌱 Continuous Learning — currently building my technical foundation
-
-I'm still developing my programming skills, but I enjoy taking responsibility for the presentation, communication and creative side of technology projects.
-
-💻 Technologies I'm Exploring
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,html,css,js,git,github,vscode&perline=8" alt="Technologies"/>
-</p>
-
-<p align="center">
-  <i>Learning in progress — this list will grow as I build more.</i>
-</p>
-
-🔬 Research Interests
-
-I'm especially interested in technology-driven research and long-term opportunities in:
-
-🛰️ Space & emerging technology
-
-🛡️ Defence technology & R&D
-
-🤖 Artificial Intelligence
-
-🔬 Technology research
-
-💡 Real-world applications of computing
-
-I'm particularly interested in research-oriented organizations and opportunities connected with DRDO and ISRO, while continuing to build the technical foundation needed for future opportunities.
-
-💼 Future Opportunities
-
-I'm also interested in:
-
-🎓 Student internships
-
-🏢 Industry internships through college
-
-🔬 Research-oriented internships
-
-💻 Technology and software opportunities
-
-🚀 Opportunities that help me learn through real-world work
-
-📊 GitHub Stats
-
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=nutanbhoyar636-arch&show_icons=true&theme=transparent&hide_border=true&title_color=7dd3fc&icon_color=7dd3fc&text_color=cbd5e1" height="170" alt="Nutan's GitHub stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nutanbhoyar636-arch&layout=compact&theme=transparent&hide_border=true&title_color=7dd3fc&text_color=cbd5e1" height="170" alt="Top languages"/>
+## `02` — MY TECH WORLD
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=java,python,html,css,js,git,github,vscode&theme=dark&perline=8"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Java-Learning-8B1E3F?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-Exploring-5C1630?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Web-Development-B76E79?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-GitHub-E8B4B8?style=for-the-badge&logo=github&logoColor=black"/>
 
 </div>
 
-🔥 Contribution Streak
+---
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=nutanbhoyar636-arch&theme=transparent&hide_border=true&ring=7dd3fc&fire=7dd3fc&currStreakLabel=7dd3fc&sideLabels=cbd5e1&dates=94a3b8" alt="GitHub streak"/>
+## `03` — PROJECT LAB
 
 </div>
 
-🏆 GitHub Trophies
+<table>
+<tr>
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=nutanbhoyar636-arch&theme=flat&no-frame=true&no-bg=true&margin-w=8&column=7" alt="GitHub trophies"/>
-
-</div>
-
-📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nutanbhoyar636-arch&bg_color=0f172a&color=cbd5e1&line=7dd3fc&point=7dd3fc&area=true&hide_border=true" width="95%" alt="Contribution activity graph"/>
-
-</div>
-
-💃 Beyond Technology
-
-When I'm not learning technology, dance is one of my biggest interests.
-
-I enjoy balancing technical learning with creativity, performance and activities outside academics.
-
-🤝 Connect With Me
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/nutan-bhoyar-276765432">
-  <img src="https://img.shields.io/badge/LinkedIn-7dd3fc?style=for-the-badge&logo=linkedin&logoColor=0f172a" alt="LinkedIn"/>
-</a>
-<a href="https://www.instagram.com/nitubhoyar_15/">
-  <img src="https://img.shields.io/badge/Instagram-7dd3fc?style=for-the-badge&logo=instagram&logoColor=0f172a" alt="Instagram"/>
-</a>
-<a href="https://github.com/nutanbhoyar636-arch">
-  <img src="https://img.shields.io/badge/GitHub-7dd3fc?style=for-the-badge&logo=github&logoColor=0f172a" alt="GitHub"/>
-</a>
-
-</div>
-
-<div align="center">
-
-🌱 Learning today. Building tomorrow. 🚀
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&animation=twinkling&color=0:7dd3fc,50:1e3a5f,100:0f172a" width="100%"/>
-
-</div>
-## 🚀 Featured Projects
+<td width="50%" valign="top">
 
 ### 🔍 TruthLens AI
+
 **Real-Time Hallucination Detection & Factual Grounding Layer for Production LLMs**
 
-An AI-based concept focused on detecting factual inconsistencies in LLM-generated responses, comparing claims with trusted sources, and presenting confidence scores with verified references.
+A concept focused on making AI responses more trustworthy by identifying potentially incorrect claims and comparing information with reliable sources.
 
-**Focus:** AI • LLMs • Factual Grounding • AI Safety
+**Focus**
 
----
+`AI` `LLMs` `Factual Grounding` `AI Safety`
+
+</td>
+
+<td width="50%" valign="top">
 
 ### 🏙️ NagarNetra
-**AI-Powered Civic Intelligence Platform**
 
-A smart-city concept designed to identify civic issues such as potholes, garbage and broken infrastructure, then use AI, geo-tagging and automated routing to support faster resolution.
+**AI-Powered Civic Intelligence Concept**
 
-**Focus:** AI • Computer Vision • Smart Cities • Civic Technology
+A smart-city concept focused on identifying civic issues, geo-tagging them and supporting faster routing of complaints to the appropriate authorities.
 
----
+**Focus**
+
+`AI` `Computer Vision` `Smart Cities` `Civic Tech`
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
 
 ### 🌐 NBWebD2026
-**Web Development Projects & Academic Mini-Projects**
 
-A collection of web-development assignments and mini-projects created while learning HTML, CSS, JavaScript and modern web technologies.
+**Web Development Projects**
 
-**Focus:** Web Development • Frontend • HTML • CSS • JavaScript
-## 🌱 Currently Learning
+A collection of web-development assignments and mini-projects created while exploring frontend technologies.
 
-| Area | Exploring |
-|---|---|
-| Programming | Java • Python |
-| Artificial Intelligence | LLMs • AI Concepts |
-| Development | Web Development |
-| Research | Emerging Technologies • R&D |
-| Tools | Git • GitHub |
+**Focus**
 
----
+`HTML` `CSS` `JavaScript` `Web Development`
 
-## 🎨 What I Bring
+</td>
 
-### Presentation & Visual Communication
-I enjoy transforming technical ideas into clear, structured and engaging presentations.
+<td width="50%" valign="top">
 
-In team projects and hackathons, I often take responsibility for:
+### ☕ Java Learning Journey
 
-- Presentation structure
-- PPT design
-- Research organisation
-- Visualising technical concepts
-- Explaining the solution clearly
----
+**Learning Java Through Practice**
 
-## Connect With Me
+A repository documenting my progress while learning Java fundamentals and gradually moving toward practical programming.
 
-I'm always interested in learning, collaborating on projects, participating
-in hackathons and exploring research-oriented technology.
+**Focus**
 
-<p align="center">
+`Java` `Programming` `Problem Solving`
 
-<a href="https://www.linkedin.com/in/nutan-bhoyar-276765432">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-8B1E3F?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+</td>
 
-<a href="https://www.instagram.com/nitubhoyar_15/">
-<img src="https://img.shields.io/badge/Instagram-Follow-B76E79?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-</p>
+</tr>
+</table>
 
 ---
 
 <div align="center">
 
-### Learning today. Building tomorrow.
-
-`IT Student` · `Hackathons` · `Research` · `Presentations` · `Technology`
+## `04` — HACKATHON TRAIL
 
 </div>
+
+<table>
+<tr>
+<td width="33%" align="center">
+
+### YCCE
+
+**TruthLens AI**
+
+Real-Time Hallucination Detection & Factual Grounding
+
+<br>
+
+`AI` `LLMs`
+
+</td>
+
+<td width="33%" align="center">
+
+### VNIT
+
+**Manthan4Yuva**
+
+Hackathon Participation
+
+<br>
+
+`Innovation` `Teamwork`
+
+</td>
+
+<td width="33%" align="center">
+
+### SIH
+
+**Smart India Hackathon**
+
+Internal Hackathon Participation
+
+<br>
+
+`Problem Solving` `Innovation`
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## `05` — PRESENTATION & VISUAL COMMUNICATION
+
+### Research → Structure → Design → Story → Presentation
+
+</div>
+
+<table>
+<tr>
+<td width="25%" align="center">
+
+### RESEARCH
+
+Finding and organising relevant information.
+
+</td>
+
+<td width="25%" align="center">
+
+### STRUCTURE
+
+Turning information into a logical story.
+
+</td>
+
+<td width="25%" align="center">
+
+### VISUALS
+
+Making technical ideas easier to understand.
+
+</td>
+
+<td width="25%" align="center">
+
+### DELIVERY
+
+Presenting ideas clearly and confidently.
+
+</td>
+</tr>
+</table>
+
+<br>
+
+One of the areas I genuinely enjoy is **presentation and PPT design**.
+
+In group projects and hackathons, I often contribute through:
+
+- Research organisation
+- Presentation structure
+- PPT design
+- Technical concept visualisation
+- Storytelling
+- Clear communication
+- Turning ideas into understandable visuals
+
+> **A good presentation should not only look attractive — it should make the idea easier to understand.**
+
+---
+
+<div align="center">
+
+## `06` — RESEARCH DIRECTION
+
+</div>
+
+```text
+                         RESEARCH & R&D
+                               │
+              ┌────────────────┼────────────────┐
+              │                │                │
+             AI        EMERGING TECHNOLOGY   COMPUTING
+              │                │                │
+              └────────────────┼────────────────┘
+                               │
+                       FUTURE TECHNOLOGY
+                               │
+                    ┌──────────┴──────────┐
+                    │                     │
+              SPACE TECHNOLOGY      DEFENCE TECHNOLOGY
+                    │                     │
+                    └──────────┬──────────┘
+                               │
+                         R&D EXPLORATION
